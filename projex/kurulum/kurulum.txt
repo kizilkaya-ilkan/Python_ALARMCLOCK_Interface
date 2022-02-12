@@ -1,0 +1,4 @@
+1) Kurulum.cmd Çalıstırın 
+2) python kod düzenleme kısmından 
+saat1 = vlc.MediaPlayer("C:/Users/Huawei/OneDrive/Masaüstü/projex/saat1.mp3") 
+"C:/Users/Huawei/OneDrive/Masaüstü/projex/saat1.mp3" -> klasör yerini düzenleyin kendinize göre;
